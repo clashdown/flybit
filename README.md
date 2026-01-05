@@ -1,6 +1,6 @@
 # flybit 机场官网最新地址
 
-最新地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)
+最新地址：[goflybit.pages.dev](https://c.jichangs.com/flybit)
 
 ## flybit简介
 
